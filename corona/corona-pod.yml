@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
     - name: corona
-      image: techsriman/corona:1.0
+      image: srinudevo/corona:1.0
       ports:
         - name: tomcatport
           containerPort: 8081
